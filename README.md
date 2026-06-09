@@ -1,15 +1,18 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Tseon's Custom Banner" width="100%">
+</p>
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10" width="70%">
-    <h1>👋 Hi, I am Tsion!</h1>
+    <h1> Hi There 👋, I am Tsion Fikru!</h1>
   </marquee>
 </div>
 
 
 
-- **🔭 I’m a Software Engineering Student based in Ethiopia.
-- **🌱 I’m currently learning:** Data Science, Machine Learning, and MLOps.
-- **👯 I’m looking to collaborate on:**anything.
-- **⚡ Fun fact:**I'm taller than your habesh mom.
+🔭 I’m a Software Engineering Student based in Ethiopia.
+🌱 I’m currently learning:** Data Science, Machine Learning, and MLOps.
+👯 I’m looking to collaborate on:**anything.
+⚡ Fun fact:**I'm taller than your habesh mom.
   
 
 ---
@@ -37,4 +40,17 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tseon-designs&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseon-designs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192"/>
+</div>
+---
+
+## 🔗 How To Reach Me
+<a href="https://www.linkedin.com/in/tsion-fikru-a28b72337">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/TsionFikru07">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+
+  
