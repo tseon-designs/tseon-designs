@@ -10,10 +10,10 @@
 
 
 
--🔭 I’m a Software Engineering Student based in Ethiopia.
--🌱 I’m currently learning: Data Science, Machine Learning, and MLOps.
--👯 I’m looking to collaborate on: anything.
--⚡ Fun fact: I'm taller than your habesh mom.
+- 🔭 I’m a Software Engineering Student based in Ethiopia.
+- 🌱 I’m currently learning: Data Science, Machine Learning, and MLOps.
+- 👯 I’m looking to collaborate on: anything.
+- ⚡ Fun fact: I'm taller than your habesh mom.
   
 
 ---
