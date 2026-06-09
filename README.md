@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%" />
-  <br/><br/>
-  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=TsionFikru&backgroundColor=e91e63" width="150" height="150" alt="Profile Picture" />
-  
   <marquee behavior="scroll" direction="left" scrollamount="10" width="70%">
     <h1>👋 Hi, I am Tsion!</h1>
   </marquee>
@@ -39,13 +35,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tseon-designs&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseon-designs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192"/>
-</div>
-
----
-
-## 🔗 Social Connect
-
-<a href="https://www.linkedin.com/in/tsion-fikru-a28b72337">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/
