@@ -1,31 +1,23 @@
-<p align="center">
-  <img src="https://github.com/tseon-designs/tseon-designs/blob/main/Tsion%20Fikru.png?raw=true" alt="Tseon's Custom Banner" width="100%">
-</p>
-
 <div align="center">
-  <div style="width: 350px; overflow: hidden; border-left: 3px solid #FF4B4B; border-right: 3px solid #FF4B4B; background: #0d1117; padding: 10px 0; margin: 20px 0;">
-    
-    <div style="display: flex; width: 200%; animation: crawl 10s linear infinite;">
-      
-      <div style="width: 50%; display: flex; justify-content: space-around; white-space: nowrap; font-family: monospace; font-size: 16px; color: #FF4B4B; font-weight: bold;">
-        <span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
-        <span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
-      </div>
-      
-      <div style="width: 50%; display: flex; justify-content: space-around; white-space: nowrap; font-family: monospace; font-size: 16px; color: #FF4B4B; font-weight: bold;">
-        <span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
-        <span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
-      </div>
-
-    </div>
-  </div>
+<div style="width: 350px; overflow: hidden; border-left: 3px solid #FF4B4B; border-right: 3px solid #FF4B4B; background: #0d1117; padding: 10px 0; margin: 20px 0;">
+<div style="display: flex; width: 200%; animation: crawl 10s linear infinite;">
+<div style="width: 50%; display: flex; justify-content: space-around; white-space: nowrap; font-family: monospace; font-size: 16px; color: #FF4B4B; font-weight: bold;">
+<span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
+<span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
+</div>
+<div style="width: 50%; display: flex; justify-content: space-around; white-space: nowrap; font-family: monospace; font-size: 16px; color: #FF4B4B; font-weight: bold;">
+<span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
+<span>Hi There 👋, I am Tsion Fikru &nbsp;&bull;&nbsp;</span>
+</div>
+</div>
+</div>
 </div>
 
 <style>
-  @keyframes crawl {
-    0% { transform: translateX(0%); }
-    100% { transform: translateX(-50%); }
-  }
+@keyframes crawl {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
 </style>
 
 
